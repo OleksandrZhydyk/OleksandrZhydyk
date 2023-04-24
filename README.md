@@ -20,5 +20,5 @@ Welcome to my Github!
 <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width=70/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrZhydyk&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrZhydyk"/>
 
